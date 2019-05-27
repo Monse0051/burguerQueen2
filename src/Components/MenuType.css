@@ -1,0 +1,20 @@
+.menutype {
+    color: #47240d;
+    font-family: helvetica;
+    font-weight: 300;
+    font-size: 25px;
+    font-style: italic;
+    margin-right: 2%;
+    margin-left: 2%; 
+    margin-top: 2%;
+    margin-bottom: 2%; 
+}
+
+
+.Tipos{
+    display: flex;
+} 
+
+.MenuDisplay{
+    display: flex;
+}
